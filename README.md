@@ -1,7 +1,7 @@
 <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="">
 <h1 align="center">Hi 👋, I'm sureshrokaya</h1>
 <h3 C">A passionate frontend developer from Nepal</h3>
-< align="right" img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="">
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="">
 - 🌱 I’m currently learning **REACT JS, MEAN Stack**
 
 - 💬 Ask me about **HTML, CSS , JAVASCRIPT**
