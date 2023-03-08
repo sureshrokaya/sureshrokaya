@@ -1,7 +1,7 @@
-<img src="https://plopdo.com/wp-content/uploads/2021/07/Screenshot-1-1210x642.png?crop=1" alt="" width="100%" height="70%">
+<img src="https://plopdo.com/wp-content/uploads/2021/07/Screenshot-1-1210x642.png?crop=1" alt="" width="" height="70%">
 <h1 align="center">Hi 👋, I'm sureshrokaya</h1>
 <h3 C">A passionate frontend developer from Nepal</h3>
-<img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="" width="500px">
+<img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="" width="500px" height="400px>
 - 🌱 I’m currently learning **REACT JS, MEAN Stack**
 
 - 💬 Ask me about **HTML, CSS , JAVASCRIPT**
