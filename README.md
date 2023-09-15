@@ -1,5 +1,5 @@
 <img src="https://plopdo.com/wp-content/uploads/2021/07/Screenshot-1-1210x642.png?crop=1" alt="" width="100%" height="400px">
-<img src ="https://github.com/sureshrokaya/sureshrokaya/assets/106019046/d75c5ddd-d5c4-4ac1-85e4-f2dc2f4b790a" width="100%" height="400px">
+
 
 
 <h1 align="center" color="red">Hi 👋, I'm sureshrokaya</h1>
